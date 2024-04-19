@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_vela.mk
+    $(LOCAL_DIR)/lmodroid_vela.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_vela-user \
-    lineage_vela-userdebug \
-    lineage_vela-eng
+    lmodroid_vela-user \
+    lmodroid_vela-userdebug \
+    lmodroid_vela-eng
