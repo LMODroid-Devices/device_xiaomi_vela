@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_vela.mk
+    $(LOCAL_DIR)/lmodroid_vela.mk
